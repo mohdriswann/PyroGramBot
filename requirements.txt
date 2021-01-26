@@ -1,0 +1,35 @@
+Pyrogram==1.0.7
+TgCrypto==1.2.1
+
+# GET / POST network requests
+asyncio==3.4.3
+aiohttp==3.6.2
+
+# scrapping tools [not used anywhere]
+beautifulsoup4
+emoji
+
+# Heroku /update R
+gitpython
+heroku3
+
+# Image manipulation Tools
+hachoir
+Pillow
+
+# SQL DataBase ReQuirements
+psycopg2-binary
+sqlalchemy
+
+# leech tools
+youtube-dl
+aria2p
+
+# download remote files
+pySmartDL
+
+# Google Drive ReQuirements
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+oauth2client
